@@ -7,7 +7,7 @@ This is the example project for setting up simple Django Authentication system
 1. Clone repository 
 
     `
-    git clone https://github.com/jai-singhal/django_auth
+    git clone https://github.com/djangopy-org/django_auth
     `
     
 2. cd to repository.
