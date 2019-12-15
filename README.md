@@ -2,6 +2,8 @@
 
 This is the example project for setting up simple Django Authentication system
 
+Guide link: https://djangopy.org/learn/set-up-authentication-system-in-django-in-just-10-minutes/
+
 ## Installation guide
 
 1. Clone repository 
